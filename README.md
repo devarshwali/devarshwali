@@ -12,7 +12,7 @@
 
 Model, backend, front end, evals, analytics. Then the PRD, because I know what to build and why.
 
-[Email](mailto:devarshwali@gmail.com)
+[Email me](mailto:devarshwali@gmail.com?subject=Hi%20Devarsh%2C%20reaching%20out%20from%20your%20GitHub&body=Hi%20Devarsh%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.%0A%0AWho%20I%20am%3A%0AWhat%20I%27m%20reaching%20out%20about%3A%0ABest%20way%20to%20reach%20me%3A%0A%0AThanks%2C%0A)
 
 </div>
 
