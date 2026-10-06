@@ -4,9 +4,9 @@
 
 <br/>
 
-![Role](https://img.shields.io/badge/role-AI%20Engineer-3fb950?style=for-the-badge&labelColor=0d1117)
-![Also](https://img.shields.io/badge/style-full--stack%20product%20builder-58a6ff?style=for-the-badge&labelColor=0d1117)
-![Mode](https://img.shields.io/badge/mode-prototype%20first-bc8cff?style=for-the-badge&labelColor=0d1117)
+[![Role](https://img.shields.io/badge/role-AI%20Engineer-3fb950?style=for-the-badge&labelColor=0d1117)](#)
+[![Also](https://img.shields.io/badge/style-full--stack%20product%20builder-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Mode](https://img.shields.io/badge/mode-prototype%20first-bc8cff?style=for-the-badge&labelColor=0d1117)](#)
 
 **AI Engineer. Full Stack Product Builder. Ships the whole thing.**
 
