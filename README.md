@@ -12,34 +12,20 @@
 
 Model, backend, front end, evals, analytics. Then the PRD, because I know what to build and why.
 
-[Site](https://devarshwali.com) · [LinkedIn](https://linkedin.com/in/devarshwali) · [Email](mailto:devarshwali@gmail.com)
+[Email](mailto:devarshwali@gmail.com)
 
 </div>
 
 ---
 
-## `package.json` for a human
+## About
 
-```json
-{
-  "name": "devarsh-wali",
-  "alias": "dev",
-  "version": "6.0.0",
-  "description": "AI engineer who builds full stack products end to end, product sense included",
-  "title": "AI Engineer (Full Stack Product Builder)",
-  "location": "USA (India roots, bilingual, both feel like home)",
-  "education": "MS Engineering Management, UMBC",
-  "domains": ["EdTech", "FinTech", "HealthTech", "PropTech"],
-  "scale": ["early-stage startups", "unicorn", "Fortune 500"],
-  "scripts": {
-    "idea": "prototype it with an LLM before the meeting",
-    "validate": "put it in front of real users, fast",
-    "ship": "spec -> code -> evals -> metrics -> repeat"
-  },
-  "engines": { "caffeine": ">=2 cups", "curiosity": "unbounded" },
-  "license": "open to great problems"
-}
-```
+- **What I do:** I build AI products end to end. Front end, backend, models, evals, analytics.
+- **Where:** USA. Indian roots. Bilingual, and both feel like home.
+- **Education:** MS in Engineering Management, UMBC
+- **Domains:** EdTech, FinTech, HealthTech, PropTech
+- **Scale:** Early-stage startups, a unicorn, and Fortune 500
+- **Approach:** Prototype with an LLM before the meeting. Put it in front of real users fast. Spec, code, evals, metrics, repeat.
 
 ## How I work
 
